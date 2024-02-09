@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
 OWNER_USERNAME = getenv("OWNER_USERNAME","lover_jerry")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "X_D_Robot")
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "dream_music")
 #get Your Assistant User name
@@ -39,7 +39,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/DAXXTEAM/DAXXMUSIC",
+    "https://github.com/Samdaveloper/Dream_music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
