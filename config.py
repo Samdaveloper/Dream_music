@@ -47,7 +47,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Caption_XD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/aapli_maitri")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/lover_jerry")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
@@ -80,24 +80,24 @@ STRING6 = getenv("STRING_SESSION6", None)
 STRING7 = getenv("STRING_SESSION7", None)
 AMBOT = [
     "💞",
-    "🔎",
-    "🔍",
+    "💗",
+    "✨",
     "🧪",
-    "💣",
+    "💘",
      "⚡️",
      "🔥",
-     "🕺",
+     "🍃",
      "🎩",
-     "🌈",
+     "❄️",
      "🍷",
      "🥂",
      "🍾",
     "🥃",
     "🥤",
     "🍽",
-    "🍭",
+    "💭",
     "🚗",
-    "🚕",
+    "🎧",
     "🚓",
     "🚑",
     "🚀",
